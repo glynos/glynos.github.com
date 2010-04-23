@@ -1,0 +1,39 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image:url("images/OM_Storr_2004.jpg");
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-color: #bbc3a7;
+
+    font-family: Verdana, Arial;
+    color: #2f3424;
+}
+
+.links {
+    position: absolute;
+    left: 8em;
+    top: 4em;
+}
+
+.links a {
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.links a:link {
+
+}
+
+.links a:hover {
+
+}
+
+.links ul {
+    list-style-type: none;
+}
