@@ -38,6 +38,7 @@ body {
 }
 
 #main_text {
+    position: absolute;
     margin-left: 23em;
     margin-top: 4.2em;
     margin-right: 8%;
