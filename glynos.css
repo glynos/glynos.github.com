@@ -1,15 +1,12 @@
-
-
 * {
     margin: 0;
     padding: 0;
 }
 
 body {
-    background-image:url("images/OM_Storr_2004.jpg");
-    background-position:center center;
+    background-image:url("images/Pacific_Ocean_At_Acapulco_1_2304x1536.jpg");
+    background-position:center top;
     background-repeat: no-repeat;
-    background-color: #bbc3a7;
 
     font-family: Verdana, Arial;
     color: #2f3424;
@@ -24,6 +21,8 @@ body {
 .links a {
     font-size: 1.2em;
     text-decoration: none;
+    color: #bbc3a7;
+    color: #efd284;
 }
 
 .links a:link {
@@ -35,5 +34,22 @@ body {
 }
 
 .links ul {
+    list-style-type: none;
+}
+
+#main_text {
+    margin-left: 23em;
+    margin-top: 4.2em;
+    margin-right: 8%;
+    padding: 0.6em;
+    background-color: white;
+    opacity: 0.55;
+}
+
+#main_text a {
+    text-decoration: none;
+}
+
+#main_text ul {
     list-style-type: none;
 }
